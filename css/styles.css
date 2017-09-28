@@ -27,3 +27,58 @@ img {
     border-top: 5px solid #2A2A2A;
     width: 30px;
 }
+
+.subscribe-banner {
+  background-color: #ededed;
+  text-align: center;
+}
+
+.subscribe-banner img {
+  width: 150px;
+}
+
+.btn {
+  font-size: 16px;
+  line-height: 16px;
+  display: inline-block;
+  background-color: rgb(25,85,165);
+  border-radius: 4px;
+  text-align: center;
+  /*font-family: "FranklinITCProBold";*/
+  color: #fff;
+  vertical-align: middle;
+  padding: 14px 3em;
+  width: 270px;
+  letter-spacing: .02em;
+}
+
+.glyphicon-search {
+background-color: #1f1f1f;
+border: 1px solid #444;
+color: #f0f0f0;
+padding: 9px 10px;
+}
+
+.glyphicon-menu-hamburger {
+  background-color: #1f1f1f;
+  color: #f0f0f0;
+  top: 2px;
+  padding-left: 5px;
+  position: relative;
+  font-size: 18px;
+}
+
+.hamburger {
+  padding: 6px 14px;
+  border: 1px solid white;
+  border-radius: 15px;
+
+}
+
+.sections {
+  float: left;
+}
+
+.box {
+  width: 1248px;
+}
